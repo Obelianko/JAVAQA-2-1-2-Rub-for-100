@@ -1,8 +1,7 @@
 
 ## Расчет бонусов "Получи рубль за каждые 100 рублей"
 
-public class Main {
-
+    public class Main {
     public static void main(String[] args) {
         int accountBalance = 100;
         int topUpBalance = 1000;
