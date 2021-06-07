@@ -4,7 +4,7 @@ public class Main {
         int topUpBalance = 1100;
         int bonus;
 
-        if (topUpBalance >= 1000) {
+        if (topUpBalance > 1000) {
             bonus = topUpBalance / 100;
         } else {
             bonus = 0;
