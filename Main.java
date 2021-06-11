@@ -4,7 +4,7 @@ public class Main {
         int topUpBalance = 1000;
         int bonus = topUpBalance / 100;
 
-        if (topUpBalance >= 1000) {
+        if (topUpBalance > 1000) {
             System.out.println("Начисленные бонусы:" + bonus);
 
         } else {
